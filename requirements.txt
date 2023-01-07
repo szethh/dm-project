@@ -1,9 +1,10 @@
 scikit-learn~=1.2
 tensorflow~=2.11
 pandas~=1.5
-numpy~=1.24
+numpy~=1.23.5
 matplotlib~=3.6
 xgboost~=1.7
 lime~=0.2
 eli5~=0.13
 tqdm~=4.6
+shap~=0.41
